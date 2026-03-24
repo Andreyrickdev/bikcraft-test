@@ -11,6 +11,10 @@ ul {
   list-style: none;
 }
 
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
 .header-bg {
   background-color: #000000;
 }
@@ -22,8 +26,4 @@ ul {
   align-items: center;
   padding: 20px;
   max-width: 1200px;
-}
-
-body {
-  font-family: Arial, Helvetica, sans-serif;
 }
