@@ -3,6 +3,10 @@
   margin: 0;
 }
 
+a {
+  text-decoration: none;
+}
+
 .header-bg {
   background-color: #8327a7;
 }
