@@ -3,8 +3,13 @@
   margin: 0;
 }
 
-header {
-  background-color: #000;
+.header-bg {
+  background-color: #8327a7;
+}
+
+.header {
+  max-width: 800px;
+  margin: 0 auto;
 }
 
 body {
