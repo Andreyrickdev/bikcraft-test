@@ -12,13 +12,14 @@ ul {
 }
 
 .header-bg {
-  background-color: #8327a7;
+  background-color: #000000;
 }
 
 .header {
   max-width: 800px;
   margin: 0 auto;
   display: flex;
+  justify-content: space-between;
 }
 
 body {
