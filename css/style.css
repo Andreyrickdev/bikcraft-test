@@ -7,6 +7,10 @@ a {
   text-decoration: none;
 }
 
+ul {
+  list-style: none;
+}
+
 .header-bg {
   background-color: #8327a7;
 }
