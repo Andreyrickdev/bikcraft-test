@@ -30,4 +30,11 @@ body {
 
 .header-menu {
   display: flex;
+  gap: 40px;
+}
+
+.header-menu li a {
+  color: #fff;
+  display: inline-block;
+  padding: 16px 0px;
 }
