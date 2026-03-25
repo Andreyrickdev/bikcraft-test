@@ -79,6 +79,10 @@ body {
   margin-bottom: 32px;
 }
 
+.introducao p {
+  margin-bottom: 20px;
+}
+
 .header-menu li a:hover::after {
   width: 100%;
 }
