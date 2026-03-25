@@ -104,6 +104,10 @@ body {
   font-weight: bold;
 }
 
+.introducao a:hover {
+  background: linear-gradient(#ffb60d, #e59317);
+}
+
 .introducao-conteudo {
   align-self: end;
   padding-bottom: 80px;
