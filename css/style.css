@@ -75,6 +75,10 @@ body {
   padding-bottom: 80px;
 }
 
+.introducao h1 {
+  margin-bottom: 32px;
+}
+
 .header-menu li a:hover::after {
   width: 100%;
 }
