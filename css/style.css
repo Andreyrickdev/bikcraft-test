@@ -68,6 +68,10 @@ body {
 .introducao {
   display: grid;
   grid-template-columns: 1fr 1fr;
+  max-width: 1200px;
+  box-sizing: border-box;
+  padding: 0px 20px;
+  margin: 0 auto;
 }
 
 .introducao-conteudo {
