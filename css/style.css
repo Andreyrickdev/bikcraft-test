@@ -70,6 +70,11 @@ body {
   grid-template-columns: 1fr 1fr;
 }
 
+.introducao-conteudo {
+  align-self: end;
+  padding-bottom: 80px;
+}
+
 .header-menu li a:hover::after {
   width: 100%;
 }
