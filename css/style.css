@@ -65,6 +65,11 @@ body {
   color: #ffffff;
 }
 
+.introducao {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
 .header-menu li a:hover::after {
   width: 100%;
 }
