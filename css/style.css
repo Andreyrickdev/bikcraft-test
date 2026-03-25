@@ -83,6 +83,9 @@ body {
 
 .introducao p {
   margin-bottom: 20px;
+  font-size: 24px;
+  line-height: 1.5;
+  color: #b2b2b2;
 }
 
 .header-menu li a:hover::after {
