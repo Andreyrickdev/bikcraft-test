@@ -119,13 +119,6 @@ body {
   }
 }
 
-@media (max-width: 800px) {
-  .introducao h1 {
-    font-size: 32px;
-    margin-bottom: 16px;
-  }
-}
-
 .introducao-conteudo {
   align-self: end;
   padding-bottom: 200px;
@@ -152,6 +145,16 @@ body {
 
   .header-menu li a:hover {
     background-color: #2e2e2e;
+  }
+
+  .introducao {
+    grid-template-columns: 1fr;
+    gap: 32px;
+  }
+
+  .introducao h1 {
+    font-size: 32px;
+    margin-bottom: 16px;
   }
 }
 
