@@ -38,3 +38,9 @@
   background-color: #fff;
   transition: all 0.5s;
 }
+
+@media (max-width: 1200px) {
+  .header-menu li a:hover::after {
+    width: 100%;
+  }
+}
