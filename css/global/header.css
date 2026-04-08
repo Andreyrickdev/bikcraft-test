@@ -64,3 +64,14 @@
     background-color: #2e2e2e;
   }
 }
+
+@media (max-width: 600px) {
+  .header-menu {
+    gap: 12px;
+  }
+
+  .header-menu li a {
+    padding: 8px 12px;
+    font-size: 14px;
+  }
+}
