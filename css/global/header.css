@@ -39,11 +39,8 @@
   transition: all 0.5s;
 }
 
-@media (max-width: 1200px) {
-  .header-menu li a:hover::after {
-    width: 100%;
-    color: red;
-  }
+.header-menu li a:hover::after {
+  width: 100%;
 }
 
 @media (max-width: 800px) {
