@@ -58,7 +58,7 @@
   }
 
   .header-menu li a:hover {
-    background-color: #2e2e2e;
+    background-color: var(--cor-10);
   }
 }
 
