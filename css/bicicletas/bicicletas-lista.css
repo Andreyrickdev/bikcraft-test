@@ -27,6 +27,10 @@
   margin-right: 8px;
 }
 
+.bicicletas-lista span {
+  margin-left: 20px;
+}
+
 .bicicletas-lista ul {
   display: flex;
   gap: 40px;
