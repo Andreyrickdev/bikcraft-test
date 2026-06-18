@@ -30,6 +30,11 @@
   padding-bottom: 200px;
 }
 
+.introducao-imagem img {
+  height: 100%;
+  width: 100%;
+}
+
 @media (max-width: 800px) {
   .introducao-bg {
     background: var(--cor-11);
