@@ -34,3 +34,7 @@
 .tecnologia-conteudo > p {
   margin-bottom: 20px;
 }
+
+.tecnologia-conteudo a {
+  margin-bottom: 80px;
+}
