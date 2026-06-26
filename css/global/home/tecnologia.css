@@ -21,3 +21,8 @@
 .tecnologia-conteudo {
   margin: 160px 0px;
 }
+
+.tecnologia-conteudo > span {
+  display: block;
+  margin-bottom: 20px;
+}
