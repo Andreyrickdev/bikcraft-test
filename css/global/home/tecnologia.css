@@ -65,4 +65,8 @@
   .tecnologia-imagem {
     display: none;
   }
+
+  .tecnologia a {
+    margin-bottom: 60px;
+  }
 }
