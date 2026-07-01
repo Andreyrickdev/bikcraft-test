@@ -61,4 +61,8 @@
   .tecnologia-conteudo {
     margin: 60px 0;
   }
+
+  .tecnologia-imagem {
+    display: none;
+  }
 }
