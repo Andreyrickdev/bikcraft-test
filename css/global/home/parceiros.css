@@ -33,3 +33,9 @@
 .parceiros li:nth-child(n + 5) {
   border-top: 2px solid var(--cor-2);
 }
+
+@media (max-width: 800px) {
+  .parceiros {
+    padding-bottom: 60px;
+  }
+}
