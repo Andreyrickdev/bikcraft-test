@@ -18,4 +18,6 @@
 
 .depoimento-conteudo p {
   font-family: "Merriweather";
+  font-style: italic;
+  font-weight: 900;
 }
