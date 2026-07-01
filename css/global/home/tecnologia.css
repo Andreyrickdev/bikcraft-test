@@ -48,3 +48,9 @@
   margin-bottom: 8px;
   width: max-content;
 }
+
+@media (max-width: 800px) {
+  .tecnologia {
+    grid-template-columns: 1fr;
+  }
+}
