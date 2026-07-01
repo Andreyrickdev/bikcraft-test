@@ -29,3 +29,7 @@
 .parceiros li:nth-child(5) {
   border-left: none;
 }
+
+.parceiros li:nth-child(n + 5) {
+  border-top: 2px solid var(--cor-2);
+}
