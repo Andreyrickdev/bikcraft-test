@@ -47,4 +47,9 @@
     grid-template-columns: 1fr;
     text-align: center;
   }
+
+  .depoimento-conteudo {
+    padding: 40px 20px;
+    justify-self: center;
+  }
 }
