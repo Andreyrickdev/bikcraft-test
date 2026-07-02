@@ -7,3 +7,7 @@
   display: grid;
   grid-template-columns: 1fr 1fr;
 }
+
+.seguros > h2 {
+  grid-column: 1/ -1;
+}
