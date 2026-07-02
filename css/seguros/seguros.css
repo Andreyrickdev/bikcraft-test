@@ -36,6 +36,10 @@
   margin-bottom: 32px;
 }
 
+.seguros-item li + li {
+  margin-top: 20px;
+}
+
 .seguros-item .botao {
   grid-column: 1 / -1;
 }
