@@ -58,4 +58,8 @@
   .footer {
     grid-template-columns: 1fr;
   }
+
+  .footer-copy {
+    margin-top: 0px;
+  }
 }
