@@ -60,3 +60,7 @@
 .link:hover {
   color: var(--cor-0);
 }
+
+.titulo-bg {
+  background-color: var(--cor-11);
+}
