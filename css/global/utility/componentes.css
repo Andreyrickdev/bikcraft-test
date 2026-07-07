@@ -69,3 +69,9 @@
 .titulo p {
   margin-bottom: 4px;
 }
+
+@media (max-width: 800px) {
+  .titulo-bg {
+    padding: 40px 0px;
+  }
+}
