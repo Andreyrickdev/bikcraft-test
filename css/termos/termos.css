@@ -6,3 +6,7 @@
 .termos h2 {
   font-weight: 600;
 }
+
+.termos p {
+  margin-bottom: 24px;
+}
