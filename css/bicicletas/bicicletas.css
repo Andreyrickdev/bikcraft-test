@@ -58,3 +58,8 @@
 .bicicletas-conteudo a {
   place-self: end;
 }
+
+.bicicletas li {
+  display: flex;
+  align-items: center;
+}
