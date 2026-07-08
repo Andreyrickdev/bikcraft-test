@@ -17,3 +17,11 @@
 .bicicletas-imagem img {
   grid-area: 1/-1;
 }
+
+.bicicletas-imagem span {
+  background-color: var(--cor-12);
+  padding: 8px 16px 8px 8px;
+  grid-area: 1/-1;
+  place-self: start end;
+  margin-top: 20px;
+}
