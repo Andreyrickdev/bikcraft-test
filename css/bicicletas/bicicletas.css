@@ -59,6 +59,11 @@
   place-self: end;
 }
 
+.bicicletas-conteudo ul {
+  display: grid;
+  gap: 16px;
+}
+
 .bicicletas-conteudo li {
   display: flex;
   align-items: center;
