@@ -50,3 +50,7 @@
   background-color: var(--cor-p1);
   margin-bottom: 8px;
 }
+
+.bicicletas p {
+  margin-bottom: 32px;
+}
