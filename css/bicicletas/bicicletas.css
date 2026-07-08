@@ -38,11 +38,11 @@
   grid-column: 1/-1;
 }
 
-.bicicletas h2 {
+.bicicletas-conteudo h2 {
   margin-bottom: 20px;
 }
 
-.bicicletas h2::before {
+.bicicletas-conteudo h2::before {
   content: "";
   display: block;
   width: 12px;
