@@ -59,7 +59,7 @@
   place-self: end;
 }
 
-.bicicletas li {
+.bicicletas-conteudo li {
   display: flex;
   align-items: center;
 }
