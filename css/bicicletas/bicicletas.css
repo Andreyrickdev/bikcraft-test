@@ -82,3 +82,9 @@
     padding-bottom: 40px;
   }
 }
+
+@media (max-width: 600px) {
+  .bicicletas-conteudo {
+    grid-template-columns: 1fr;
+  }
+}
