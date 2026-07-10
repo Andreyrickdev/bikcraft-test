@@ -87,4 +87,8 @@
   .bicicletas-conteudo {
     grid-template-columns: 1fr;
   }
+
+  .bicicletas a {
+    place-self: start;
+  }
 }
