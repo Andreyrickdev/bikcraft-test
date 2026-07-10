@@ -90,6 +90,7 @@
 
   .bicicletas-conteudo ul {
     margin-bottom: 32px;
+    grid-template-columns: 1fr 1fr;
   }
 
   .bicicletas a {
