@@ -88,6 +88,10 @@
     grid-template-columns: 1fr;
   }
 
+  .bicicletas-conteudo ul {
+    margin-bottom: 32px;
+  }
+
   .bicicletas a {
     place-self: start;
   }
