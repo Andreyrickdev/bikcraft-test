@@ -29,4 +29,8 @@
     padding-top: var(--padding);
     padding-bottom: var(--padding);
   }
+
+  .vantagens h2 {
+    margin-bottom: 40px;
+  }
 }
