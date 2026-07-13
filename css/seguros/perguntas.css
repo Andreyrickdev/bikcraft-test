@@ -15,3 +15,11 @@
 .perguntas dl > div:nth-child(odd) {
   background-color: var(--cor-1);
 }
+
+.perguntas dt::before {
+  content: "";
+  display: inline-block;
+  width: 12px;
+  height: 8px;
+  background-color: var(--cor-p1);
+}
