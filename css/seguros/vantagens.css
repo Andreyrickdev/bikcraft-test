@@ -10,3 +10,9 @@
 .vantagens h2 {
   margin-bottom: 60px;
 }
+
+.vantagens ul {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 40px 80px;
+}
