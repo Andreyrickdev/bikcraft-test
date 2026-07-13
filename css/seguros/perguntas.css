@@ -11,3 +11,7 @@
   padding: 20px;
   border-radius: 4px;
 }
+
+.perguntas dl > div:nth-child(odd) {
+  background-color: var(--cor-1);
+}
