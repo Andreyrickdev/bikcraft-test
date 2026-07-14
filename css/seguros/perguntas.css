@@ -23,3 +23,11 @@
   height: 8px;
   background-color: var(--cor-p1);
 }
+
+.perguntas dt::after {
+  content: "";
+  display: inline-block;
+  width: 14px;
+  height: 6px;
+  background: url("../../img/icones/seta-abrir.svg");
+}
