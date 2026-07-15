@@ -25,3 +25,8 @@
 .bicicleta-conteudo > p {
   margin-bottom: 32px;
 }
+
+.bicicleta-comprar {
+  display: grid;
+  grid-template-columns: max-content auto;
+}
