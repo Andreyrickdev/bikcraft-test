@@ -109,7 +109,8 @@
 }
 
 @media (max-width: 400px) {
-  .bicicleta-informacoes {
+  .bicicleta-informacoes,
+  .bicicleta-comprar {
     grid-template-columns: 1fr;
   }
 }
