@@ -52,3 +52,10 @@
   letter-spacing: 0.015em;
   margin-bottom: 12px;
 }
+
+.bicicleta-informacoes,
+.bicicleta-ficha {
+  padding: 32px;
+  background-color: var(--cor-12);
+  border-radius: 4px;
+}
