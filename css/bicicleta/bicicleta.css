@@ -12,3 +12,8 @@
   flex-wrap: wrap;
   gap: 20px;
 }
+
+.bicicletas-imagens img {
+  flex: 1;
+  min-width: 200px;
+}
