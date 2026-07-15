@@ -67,3 +67,8 @@
   grid-template-columns: repeat(2, 1fr);
   gap: 32px;
 }
+
+.bicicleta-informacoes img {
+  width: 24px;
+  margin-bottom: 8px;
+}
