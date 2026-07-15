@@ -34,6 +34,15 @@
   gap: 8px 12px;
 }
 
+.bicicleta-comprar span {
+  display: flex;
+  align-items: center;
+  background-color: var(--cor-12);
+  gap: 8px;
+  padding: 4px 8px;
+  border-radius: 4px;
+}
+
 .bicicleta-comprar a {
   grid-row: span 2;
 }
