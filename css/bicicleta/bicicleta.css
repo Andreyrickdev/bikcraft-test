@@ -60,3 +60,10 @@
   background-color: var(--cor-12);
   border-radius: 4px;
 }
+
+.bicicleta-informacoes {
+  margin-bottom: 40px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 32px;
+}
