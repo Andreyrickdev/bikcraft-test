@@ -29,6 +29,9 @@
 .bicicleta-comprar {
   display: grid;
   grid-template-columns: max-content auto;
+  align-items: center;
+  justify-items: start;
+  gap: 8px 12px;
 }
 
 .bicicleta-comprar a {
