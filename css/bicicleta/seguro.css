@@ -16,3 +16,8 @@
   height: 100%;
   object-fit: cover;
 }
+
+.seguro-conteudo {
+  padding-top: 180px;
+  padding-bottom: 180px;
+}
