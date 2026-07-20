@@ -5,6 +5,7 @@
 @import "./global/footer.css";
 
 @import "./global/utility/componentes.css";
+@import "./global/utility/formulario.css";
 
 @import "./home/introducao.css";
 @import "./home/tecnologia.css";
