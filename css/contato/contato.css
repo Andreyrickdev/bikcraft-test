@@ -16,3 +16,7 @@
 .contato-dados {
   background: var(--cor-12);
 }
+
+.contato-formulario {
+  background: var(--cor-0);
+}
