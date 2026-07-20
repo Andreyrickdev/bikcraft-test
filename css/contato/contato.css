@@ -55,3 +55,8 @@
 .contato-meios a:nth-child(2) {
   margin-bottom: 32px;
 }
+
+.contato-meios a:nth-child(3) {
+  background: url("../../img/icones/telefone.svg") no-repeat 0px 2px;
+  margin-bottom: 60px;
+}
