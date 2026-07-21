@@ -60,3 +60,9 @@
   background: url("../../img/icones/telefone.svg") no-repeat 0px 2px;
   margin-bottom: 60px;
 }
+
+.contato-redes {
+  display: flex;
+  gap: 32px;
+  padding-left: 28px;
+}
