@@ -71,4 +71,9 @@
   .contato {
     grid-template-columns: 1fr;
   }
+
+  .contato-dados,
+  .contato-formulario {
+    padding: 20px;
+  }
 }
