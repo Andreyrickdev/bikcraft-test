@@ -84,4 +84,8 @@
   .contato-formulario {
     border-radius: 0 0 5px 5px;
   }
+
+  .contato-dados h2 {
+    margin-bottom: 32px;
+  }
 }
