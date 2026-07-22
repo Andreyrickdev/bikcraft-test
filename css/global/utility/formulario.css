@@ -26,7 +26,7 @@
   box-sizing: border-box;
 }
 
-.col-2 {
+.form .col-2 {
   grid-column: span 2;
 }
 
