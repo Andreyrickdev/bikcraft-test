@@ -26,6 +26,10 @@
   box-sizing: border-box;
 }
 
+.col-2 {
+  grid-column: span 2;
+}
+
 .form input[type="text"]:focus,
 .form input[type="email"]:focus,
 .form textarea:focus {
