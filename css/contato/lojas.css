@@ -26,3 +26,8 @@
   grid-template-columns: repeat(2, 1fr);
   gap: 32px 16px;
 }
+
+.lojas-conteudo h3,
+.lojas-tempo {
+  grid-column: 1/-1;
+}
