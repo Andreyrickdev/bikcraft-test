@@ -56,4 +56,8 @@
   .lojas h2 {
     margin-bottom: 32px;
   }
+
+  .lojas-conteudo {
+    grid-template-columns: 1fr;
+  }
 }
