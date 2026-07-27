@@ -52,4 +52,8 @@
     padding-top: 60px;
     padding-bottom: 60px;
   }
+
+  .lojas h2 {
+    margin-bottom: 32px;
+  }
 }
