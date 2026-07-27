@@ -31,3 +31,10 @@
 .lojas-tempo {
   grid-column: 1/-1;
 }
+
+.lojas-dados {
+  display: grid;
+  gap: 8px;
+  border-left: 2px solid var(--cor-2);
+  padding-left: 12px;
+}
