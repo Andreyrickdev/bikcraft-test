@@ -54,6 +54,7 @@
   display: none;
 }
 
-#bikcraft:checked {
-  margin-bottom: 200px;
+#bikcraft:checked ~ #orcamento-bikcraft,
+#seguro:checked ~ #orcamento-seguro {
+  display: block;
 }
