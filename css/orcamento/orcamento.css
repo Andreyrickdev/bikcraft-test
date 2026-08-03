@@ -7,3 +7,7 @@
   grid-template-columns: 5fr 7fr;
   padding-bottom: 120px;
 }
+
+.orcamento h2 {
+  text-transform: uppercase;
+}
