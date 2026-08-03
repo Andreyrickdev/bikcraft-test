@@ -10,6 +10,9 @@
 
 .orcamento h2 {
   text-transform: uppercase;
+  position: relative;
+  display: flex;
+  align-items: center;
 }
 
 .orcamento h2::before {
@@ -18,4 +21,6 @@
   width: 4px;
   height: 8px;
   background-color: var(--cor-p1);
+  position: absolute;
+  left: -12px;
 }
