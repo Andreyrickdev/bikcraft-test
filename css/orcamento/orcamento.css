@@ -33,6 +33,5 @@
 
 .orcamento-produto {
   border-radius: 5px 0 0 5px;
-  display: grid;
-  gap: 20px;
+  background-color: var(--cor-12);
 }
