@@ -53,3 +53,7 @@
   margin: 20px 0;
   display: none;
 }
+
+#bikcraft:checked {
+  margin-bottom: 200px;
+}
