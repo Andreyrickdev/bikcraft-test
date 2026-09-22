@@ -41,13 +41,6 @@
   background-color: var(--cor-0);
 }
 
-.orcamento-conteudo {
-  padding: 20px;
-  background-color: #222;
-  margin: 20px 0;
-  /* display: none; */
-}
-
 #bikcraft:checked ~ #orcamento-bikcraft,
 #seguro:checked ~ #orcamento-seguro {
   display: block;
