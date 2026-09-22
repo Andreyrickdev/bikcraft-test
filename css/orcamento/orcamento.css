@@ -58,8 +58,3 @@
   border-radius: 0 5px 5px 0;
   background-color: var(--cor-0);
 }
-
-#bikcraft:checked ~ #orcamento-bikcraft,
-#seguro:checked ~ #orcamento-seguro {
-  display: block;
-}
