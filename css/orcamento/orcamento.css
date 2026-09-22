@@ -44,6 +44,10 @@
   grid-column: 1/-1;
 }
 
+.orcamento-produto > label {
+  grid-column: initial;
+}
+
 .orcamento-produto label {
   color: var(--cor-4);
   background-color: var(--cor-10);
