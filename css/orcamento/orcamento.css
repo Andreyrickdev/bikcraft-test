@@ -60,6 +60,11 @@
   cursor: pointer;
 }
 
+.orcamento-produto input:checked + label {
+  background: var(--cor-0);
+  color: var(--cor--11);
+}
+
 .orcamento-dados {
   border-radius: 0 5px 5px 0;
   background-color: var(--cor-0);
