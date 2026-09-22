@@ -60,6 +60,10 @@
   cursor: pointer;
 }
 
+.orcamento-produto input {
+  opacity: 0;
+}
+
 .orcamento-produto input:checked + label {
   background: var(--cor-0);
   color: var(--cor--11);
