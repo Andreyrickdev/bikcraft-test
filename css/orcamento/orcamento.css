@@ -40,6 +40,11 @@
   align-content: start;
 }
 
+.orcamento-produto label {
+  color: var(--cor-4);
+  background-color: var(--cor-10);
+}
+
 .orcamento-dados {
   border-radius: 0 5px 5px 0;
   background-color: var(--cor-0);
