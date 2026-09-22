@@ -51,6 +51,7 @@
 .orcamento-produto label {
   color: var(--cor-4);
   background-color: var(--cor-10);
+  display: block;
 }
 
 .orcamento-dados {
