@@ -100,8 +100,13 @@
   color: var(--cor--11);
 }
 
-.orcamento-conteudo {
+/* .orcamento-conteudo {
   display: none;
+} */
+
+.orcamento-conteudo h2,
+.orcamento-dados h2:nth-of-type(n + 2) {
+  margin-top: 20px;
 }
 
 #bikcraft:checked ~ #orcamento-bikcraft,
