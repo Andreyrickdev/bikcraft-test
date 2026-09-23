@@ -100,9 +100,15 @@
   color: var(--cor--11);
 }
 
-/* .orcamento-conteudo {
+.orcamento-conteudo {
   display: none;
-} */
+}
+
+#bikcraft:checked ~ #orcamento-bikcraft,
+#seguro:checked ~ #orcamento-seguro {
+  display: grid;
+  gap: 20px;
+}
 
 .orcamento-dados {
   border-radius: 0 5px 5px 0;
