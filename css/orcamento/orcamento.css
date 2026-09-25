@@ -126,6 +126,7 @@
 }
 
 .orcamento-detalhes {
+  display: none;
   background-color: var(--cor-0);
   padding: 20px;
   display: grid;
