@@ -134,6 +134,12 @@
   align-items: center;
 }
 
+.orcamento-detalhes li {
+  display: flex;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
 .orcamento-dados {
   border-radius: 0 5px 5px 0;
   background-color: var(--cor-0);
