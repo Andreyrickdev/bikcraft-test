@@ -129,7 +129,6 @@
   display: none;
   background-color: var(--cor-0);
   padding: 20px;
-  display: grid;
   grid-template-columns: 1fr 1fr;
   border-radius: 4px;
   align-items: center;
