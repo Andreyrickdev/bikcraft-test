@@ -83,6 +83,7 @@
 
 .orcamento-produto label:hover {
   background-color: var(--cor-9);
+  border-color: var(--cor-9);
 }
 
 .orcamento-produto input:focus + label {
