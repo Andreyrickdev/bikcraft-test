@@ -140,6 +140,11 @@
   margin-bottom: 8px;
 }
 
+.orcamento-detalhes li img {
+  width: 16px;
+  margin-right: 8px;
+}
+
 .orcamento-dados {
   border-radius: 0 5px 5px 0;
   background-color: var(--cor-0);
