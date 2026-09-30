@@ -160,3 +160,17 @@
     padding: 32px;
   }
 }
+
+@media (max-width: 800px) {
+  .orcamento {
+    grid-template-columns: 1fr;
+  }
+
+  .orcamento-produto {
+    border-radius: 5px 5px 0 0;
+  }
+
+  .orcamento-dados {
+    border-radius: 0 0 5px 5px;
+  }
+}
