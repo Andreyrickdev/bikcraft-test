@@ -174,3 +174,9 @@
     border-radius: 0 0 5px 5px;
   }
 }
+
+@media (max-width: 400px) {
+  .orcamento-produto {
+    grid-template-columns: 1fr;
+  }
+}
